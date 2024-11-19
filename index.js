@@ -12,7 +12,7 @@ start.addEventListener('click', function(){
     mainContainer.style.display = "none"
 
     currentQuest.display();
-    setTimeout(testResult,10000)
+    setTimeout(testResult,30000)
     rightCount = 0
     total = 0
 })
